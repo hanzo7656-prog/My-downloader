@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 121,
+  "game_day": 122,
   "start_date": "2026-05-12",
-  "last_update": "2026-09-09T22:41:19.284788",
+  "last_update": "2026-09-10T09:04:22.706828",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,10 +20,10 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "level": 1,
-    "cipher": "19-20-5-1-12-20-8",
-    "answer": "STEALTH",
+    "cipher": "23-15-18-12-4",
+    "answer": "WORLD",
     "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
     "method": "number_to_letter",
     "solved_by": []
