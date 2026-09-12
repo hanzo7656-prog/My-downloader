@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 123,
+  "game_day": 124,
   "start_date": "2026-05-12",
-  "last_update": "2026-09-11T22:43:30.305772",
+  "last_update": "2026-09-12T08:45:29.647183",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-09-11",
-    "level": 2,
-    "cipher": "YMRA",
-    "answer": "ARMY",
-    "hint": "🔄 کلمه برعکس شده است",
-    "method": "reverse",
+    "date": "2026-09-12",
+    "level": 3,
+    "cipher": "EFGFOE",
+    "answer": "DEFEND",
+    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
+    "method": "caesar",
     "solved_by": []
   },
   "last_disaster_time": null,
