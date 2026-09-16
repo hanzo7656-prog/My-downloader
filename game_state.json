@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 127,
+  "game_day": 128,
   "start_date": "2026-05-12",
-  "last_update": "2026-09-15T23:04:41.318227",
+  "last_update": "2026-09-16T09:26:06.868819",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,10 +20,10 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "level": 1,
-    "cipher": "13-9-19-19-9-12-5",
-    "answer": "MISSILE",
+    "cipher": "1-18-13-25",
+    "answer": "ARMY",
     "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
     "method": "number_to_letter",
     "solved_by": []
