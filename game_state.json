@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 129,
+  "game_day": 130,
   "start_date": "2026-05-12",
-  "last_update": "2026-09-17T22:59:18.846031",
+  "last_update": "2026-09-18T09:07:49.544836",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-09-17",
-    "level": 2,
-    "cipher": "RETHGIF",
-    "answer": "FIGHTER",
-    "hint": "🔄 کلمه برعکس شده است",
-    "method": "reverse",
+    "date": "2026-09-18",
+    "level": 3,
+    "cipher": "XPSME",
+    "answer": "WORLD",
+    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
+    "method": "caesar",
     "solved_by": []
   },
   "last_disaster_time": null,
