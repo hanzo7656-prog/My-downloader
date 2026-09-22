@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 133,
+  "game_day": 134,
   "start_date": "2026-05-12",
-  "last_update": "2026-09-21T23:29:12.429722",
+  "last_update": "2026-09-22T09:25:57.311430",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-09-21",
-    "level": 3,
-    "cipher": "CPNCFS",
-    "answer": "BOMBER",
-    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
-    "method": "caesar",
+    "date": "2026-09-22",
+    "level": 1,
+    "cipher": "8-5-12-12-15",
+    "answer": "HELLO",
+    "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
+    "method": "number_to_letter",
     "solved_by": []
   },
   "last_disaster_time": null,
