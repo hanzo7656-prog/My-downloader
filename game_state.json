@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 136,
+  "game_day": 137,
   "start_date": "2026-05-12",
-  "last_update": "2026-09-24T23:18:32.656869",
+  "last_update": "2026-09-25T09:44:30.904605",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,7 +20,7 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "level": 1,
     "cipher": "23-15-18-12-4",
     "answer": "WORLD",
