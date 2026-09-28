@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 139,
+  "game_day": 140,
   "start_date": "2026-05-12",
-  "last_update": "2026-09-27T23:17:48.815290",
+  "last_update": "2026-09-28T11:09:20.053054",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-09-27",
-    "level": 2,
-    "cipher": "DLROW",
-    "answer": "WORLD",
-    "hint": "🔄 کلمه برعکس شده است",
-    "method": "reverse",
+    "date": "2026-09-28",
+    "level": 3,
+    "cipher": "BUUBDL",
+    "answer": "ATTACK",
+    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
+    "method": "caesar",
     "solved_by": []
   },
   "last_disaster_time": null,
