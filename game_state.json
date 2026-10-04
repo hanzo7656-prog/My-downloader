@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 145,
+  "game_day": 146,
   "start_date": "2026-05-12",
-  "last_update": "2026-10-03T23:15:41.618292",
+  "last_update": "2026-10-04T10:42:46.389485",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-10-03",
-    "level": 3,
-    "cipher": "CPNCFS",
-    "answer": "BOMBER",
-    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
-    "method": "caesar",
+    "date": "2026-10-04",
+    "level": 2,
+    "cipher": "KNAT",
+    "answer": "TANK",
+    "hint": "🔄 کلمه برعکس شده است",
+    "method": "reverse",
     "solved_by": []
   },
   "last_disaster_time": null,
