@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 147,
+  "game_day": 148,
   "start_date": "2026-05-12",
-  "last_update": "2026-10-06T01:22:50.822561",
+  "last_update": "2026-10-06T11:26:22.441609",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,10 +20,10 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "level": 1,
-    "cipher": "13-9-19-19-9-12-5",
-    "answer": "MISSILE",
+    "cipher": "6-9-7-8-20-5-18",
+    "answer": "FIGHTER",
     "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
     "method": "number_to_letter",
     "solved_by": []
