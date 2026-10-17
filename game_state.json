@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 158,
+  "game_day": 159,
   "start_date": "2026-05-12",
-  "last_update": "2026-10-16T22:57:06.477728",
+  "last_update": "2026-10-17T08:43:57.047345",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-10-16",
-    "level": 2,
-    "cipher": "REWOP",
-    "answer": "POWER",
-    "hint": "🔄 کلمه برعکس شده است",
-    "method": "reverse",
+    "date": "2026-10-17",
+    "level": 1,
+    "cipher": "2-15-13-2-5-18",
+    "answer": "BOMBER",
+    "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
+    "method": "number_to_letter",
     "solved_by": []
   },
   "last_disaster_time": null,
