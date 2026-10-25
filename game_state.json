@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 166,
+  "game_day": 167,
   "start_date": "2026-05-12",
-  "last_update": "2026-10-24T22:39:54.592283",
+  "last_update": "2026-10-25T09:18:20.098065",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-10-24",
-    "level": 3,
-    "cipher": "XPSME",
-    "answer": "WORLD",
-    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
-    "method": "caesar",
+    "date": "2026-10-25",
+    "level": 2,
+    "cipher": "YVAN",
+    "answer": "NAVY",
+    "hint": "🔄 کلمه برعکس شده است",
+    "method": "reverse",
     "solved_by": []
   },
   "last_disaster_time": null,
