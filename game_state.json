@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 167,
+  "game_day": 168,
   "start_date": "2026-05-12",
-  "last_update": "2026-10-25T22:44:29.671465",
+  "last_update": "2026-10-26T10:23:55.114565",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,10 +20,10 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "level": 2,
-    "cipher": "YVAN",
-    "answer": "NAVY",
+    "cipher": "KNAT",
+    "answer": "TANK",
     "hint": "🔄 کلمه برعکس شده است",
     "method": "reverse",
     "solved_by": []
