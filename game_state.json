@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 173,
+  "game_day": 174,
   "start_date": "2026-05-12",
-  "last_update": "2026-10-31T23:33:03.777746",
+  "last_update": "2026-11-01T11:26:25.574384",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-10-31",
-    "level": 3,
-    "cipher": "BMFSU",
-    "answer": "ALERT",
-    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
-    "method": "caesar",
+    "date": "2026-11-01",
+    "level": 2,
+    "cipher": "OLLEH",
+    "answer": "HELLO",
+    "hint": "🔄 کلمه برعکس شده است",
+    "method": "reverse",
     "solved_by": []
   },
   "last_disaster_time": null,
