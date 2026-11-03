@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 175,
+  "game_day": 176,
   "start_date": "2026-05-12",
-  "last_update": "2026-11-03T02:32:28.613835",
+  "last_update": "2026-11-03T12:12:48.459395",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-11-02",
-    "level": 1,
-    "cipher": "8-5-12-12-15",
-    "answer": "HELLO",
-    "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
-    "method": "number_to_letter",
+    "date": "2026-11-03",
+    "level": 3,
+    "cipher": "XPSME",
+    "answer": "WORLD",
+    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
+    "method": "caesar",
     "solved_by": []
   },
   "last_disaster_time": null,
