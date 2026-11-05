@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 177,
+  "game_day": 178,
   "start_date": "2026-05-12",
-  "last_update": "2026-11-05T00:58:57.208414",
+  "last_update": "2026-11-05T12:39:44.466234",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-11-04",
-    "level": 3,
-    "cipher": "NJTTJMF",
-    "answer": "MISSILE",
-    "hint": "➕ هر حرف یک مرحله جلوتر است (A→B)",
-    "method": "caesar",
+    "date": "2026-11-05",
+    "level": 1,
+    "cipher": "19-20-5-1-12-20-8",
+    "answer": "STEALTH",
+    "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
+    "method": "number_to_letter",
     "solved_by": []
   },
   "last_disaster_time": null,
