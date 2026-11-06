@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 178,
+  "game_day": 179,
   "start_date": "2026-05-12",
-  "last_update": "2026-11-06T01:03:06.802428",
+  "last_update": "2026-11-06T12:22:09.935646",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,10 +20,10 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "level": 1,
-    "cipher": "19-20-5-1-12-20-8",
-    "answer": "STEALTH",
+    "cipher": "1-18-13-25",
+    "answer": "ARMY",
     "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
     "method": "number_to_letter",
     "solved_by": []
