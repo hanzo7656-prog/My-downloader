@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 187,
+  "game_day": 188,
   "start_date": "2026-05-12",
-  "last_update": "2026-11-15T00:05:55.901569",
+  "last_update": "2026-11-15T12:09:48.854007",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,10 +20,10 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "level": 1,
-    "cipher": "14-1-22-25",
-    "answer": "NAVY",
+    "cipher": "2-15-13-2-5-18",
+    "answer": "BOMBER",
     "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
     "method": "number_to_letter",
     "solved_by": []
