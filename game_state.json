@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 190,
+  "game_day": 191,
   "start_date": "2026-05-12",
-  "last_update": "2026-11-18T02:31:21.145825",
+  "last_update": "2026-11-18T13:19:32.275054",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-11-17",
-    "level": 1,
-    "cipher": "13-9-19-19-9-12-5",
-    "answer": "MISSILE",
-    "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
-    "method": "number_to_letter",
+    "date": "2026-11-18",
+    "level": 2,
+    "cipher": "RETHGIF",
+    "answer": "FIGHTER",
+    "hint": "🔄 کلمه برعکس شده است",
+    "method": "reverse",
     "solved_by": []
   },
   "last_disaster_time": null,
