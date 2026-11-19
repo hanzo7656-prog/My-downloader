@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 191,
+  "game_day": 192,
   "start_date": "2026-05-12",
-  "last_update": "2026-11-19T01:56:55.772473",
+  "last_update": "2026-11-19T13:44:54.096027",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,12 +20,12 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-11-18",
-    "level": 2,
-    "cipher": "RETHGIF",
-    "answer": "FIGHTER",
-    "hint": "🔄 کلمه برعکس شده است",
-    "method": "reverse",
+    "date": "2026-11-19",
+    "level": 1,
+    "cipher": "2-15-13-2-5-18",
+    "answer": "BOMBER",
+    "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
+    "method": "number_to_letter",
     "solved_by": []
   },
   "last_disaster_time": null,
