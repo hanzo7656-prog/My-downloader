@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 196,
+  "game_day": 197,
   "start_date": "2026-05-12",
-  "last_update": "2026-11-24T04:54:35.742663",
+  "last_update": "2026-11-24T15:09:26.051363",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,7 +20,7 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "level": 1,
     "cipher": "20-1-14-11",
     "answer": "TANK",
