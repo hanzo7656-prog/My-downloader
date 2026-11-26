@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "game_day": 198,
+  "game_day": 199,
   "start_date": "2026-05-12",
-  "last_update": "2026-11-26T02:58:58.340981",
+  "last_update": "2026-11-26T14:14:29.254330",
   "status": "active",
   "admin": {
     "game_speed": 1,
@@ -20,10 +20,10 @@
     "auction": []
   },
   "daily_mission": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "level": 1,
-    "cipher": "20-1-14-11",
-    "answer": "TANK",
+    "cipher": "19-20-5-1-12-20-8",
+    "answer": "STEALTH",
     "hint": "🔢 عدد به حرف (A=1, B=2, ...)",
     "method": "number_to_letter",
     "solved_by": []
